@@ -1,6 +1,6 @@
 def letter_up(word):
     """
-    Dockstring
+    Dockstring1
 
     """
     return word.upper()
